@@ -1,0 +1,20 @@
+A:
+  1.000000   2.000000 
+  0.000000   1.000000 
+
+b:
+  0.600000  -0.500000 
+errors Restarted GMRES(1) ...
+||b|| =  7.810250e-01
+||r(1)(1)|| =  7.808688e-01
+||r(2)(1)|| =  7.804878e-01
+||r(3)(1)|| =  7.792861e-01
+||r(4)(1)|| =  7.732684e-01
+||r(5)(1)|| =  6.916323e-01
+m=1:    squareRoots=25    GMRESflops=237    AvProducts=12    flops(GMRES+AvProducts)=333
+errors Restarted GMRES(2) ...
+||b|| =  7.810250e-01
+||r(1)(1)|| =  7.808688e-01
+m=2:    squareRoots=8    GMRESflops=98    AvProducts=3    flops(GMRES+AvProducts)=122
+solution found of Ax=b; x= 
+ 1.600000e+00 -5.000000e-01 
